@@ -1,4 +1,4 @@
-# Data-Science-Analysis-for-Ecommerce-Product-Reviews-Python-NumPy-Pandas-Scikit-Matplotlib-Seab
+# Data-Science-Analysis-for-Ecommerce-Product-Reviews
 Analyzed customer reviews on Women’s Clothing Ecommerce by employing sentiment classification and linear regression to predict whether the customer recommends a reviewed product.
 
 Three main findings emphasise on the following:
